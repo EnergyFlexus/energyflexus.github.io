@@ -18,8 +18,3 @@
     .                                                     .-::.       .@@@@@@@@        =%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                      .                                                 %@@=%@@@*                   :+#@@@@@@@@@@@#*=  
                                                                         +-  -@%-              :            @ -%@-   
-
-# Skills:
-- `git push --force into master` ✔️
-- `500 errors with DB reset(locally)` ✔️
-- `rm -rf /bin` ❌
